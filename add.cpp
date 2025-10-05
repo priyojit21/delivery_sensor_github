@@ -6,5 +6,8 @@ int main()
     int b = 20;
     int c = a+b;
     //this is print statement
+
+    //new logic added
+    int x = a-2;
     cout<<c;
 }
